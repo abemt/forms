@@ -1,0 +1,33 @@
+{
+  "name": "form680-autonotes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated generation of Form §680 Daily Progress Notes from monthly shift log PDFs",
+  "type": "module",
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "dev": "concurrently -n server,web -c blue,magenta \"npm run dev -w server\" \"npm run dev -w web\"",
+    "build": "npm run build -w server && npm run build -w web",
+    "start": "npm run start -w server",
+    "typecheck": "npm run typecheck -w server && npm run typecheck -w web",
+    "test:reports": "tsx --test server/src/services/zipper.test.ts server/src/services/exportPlan.test.ts server/src/services/quarterlyTemplate.test.ts server/src/services/printImports.test.ts server/src/services/jobPolicy.test.ts server/src/services/local/evidence.test.ts server/src/services/logWriter/writer.test.ts server/src/services/voice/parse.test.ts server/src/services/voice/apply.test.ts",
+    "test:site": "node --test scripts/test-site-workflows.mjs",
+    "test:writer": "node scripts/test-log-writer.mjs",
+    "test:voice": "node scripts/test-voice.mjs",
+    "e2e": "node scripts/e2e.mjs",
+    "make-samples": "node scripts/make-samples.mjs"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^1.0.8",
+    "adm-zip": "^0.6.0",
+    "concurrently": "^9.1.2",
+    "docx": "^9.7.1",
+    "fast-xml-parser": "^5.11.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

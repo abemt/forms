@@ -1,0 +1,478 @@
+{
+  "profile": "steven",
+  "month": "2026-10",
+  "fromDay": 1,
+  "toDay": 20,
+  "events": [
+    {
+      "id": "s-incident-11",
+      "day": 11,
+      "shift": "evening",
+      "kind": "incident",
+      "place": "",
+      "details": "At approximately 11:20 p.m., Jerrell Wright and Steven (Steve) reportedly had a physical altercation following a disagreement involving a girlfriend. They threw water bottles at each other, and Jerrell Wright reportedly threw a water bottle at Steven (Steve). A 911 call was made and police responded.",
+      "withHousemate": false,
+      "mood": ""
+    },
+    {
+      "id": "s-program-19",
+      "day": 19,
+      "shift": "day",
+      "kind": "note",
+      "place": "",
+      "details": "Steven (Steve) reportedly changed to a different day-support program because he did not like the previous one. The program name was not supplied.",
+      "withHousemate": false,
+      "mood": ""
+    }
+  ],
+  "warnings": [
+    {
+      "day": 1,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 1,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 1,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 2,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 2,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly house meeting was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 2,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 3,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Weekly grocery activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 3,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 3,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 4,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 4,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly money-management activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 4,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 5,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 5,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 5,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 6,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 6,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 6,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 7,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Laundry was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 7,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 7,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 8,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 8,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 8,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 9,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 9,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly house meeting was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 9,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 10,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Weekly grocery activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 10,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 10,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 11,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 11,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly money-management activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 11,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 12,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 12,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 12,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 13,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 13,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 13,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 14,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Laundry was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 14,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 14,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 15,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 15,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 15,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 16,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 16,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly house meeting was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 16,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 17,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Weekly grocery activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 17,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 17,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 18,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 18,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly money-management activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 18,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 19,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 19,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 19,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 20,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Inner Vision Day Support attendance was scheduled. Completion not documented in the available source.",
+        "Review needed: Morning medication support at 8:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 20,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 20,
+      "shift": "night",
+      "warnings": [
+        "Review needed: Overnight monitoring was configured. Completion not documented in the available source."
+      ]
+    }
+  ],
+  "assumptions": [
+    "October 11: incident text inserted as written - review the Behavioral/Medical/Serious Incident answers on that form.",
+    "Shared afternoons and evenings assume Jerrell was home; the two logs must be generated with the same events.",
+    "October 21-31 are not written yet."
+  ]
+}

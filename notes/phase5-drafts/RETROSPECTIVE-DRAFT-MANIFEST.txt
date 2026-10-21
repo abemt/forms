@@ -1,0 +1,52 @@
+JOYFORM RETROSPECTIVE LOGBOOK DRAFTS
+====================================
+Status: DRAFT ONLY - RETROSPECTIVE - REQUIRES RESPONSIBLE STAFF REVIEW AND AUTHENTICATION
+Generated: 2026-10-21
+Production records and finalized reports were not changed.
+
+IDENTITIES
+- Jerrell Wright (profile: jerrell)
+- Steven (Steve) (profile: steven)
+
+BASELINE
+The Sep 1-9 workbook schedule and existing roster configuration were used as the date-range and staffing reference. Routine completion claims were not copied into later shifts. The current evidence-aware writer leaves unsupported routine completion out of narrative text and records schedule-gap warnings in the companion preview JSON files.
+
+OUTPUT PACKAGES
+- September10-30-retrospective-drafts.zip
+  - Steven_September2026_Sep10-30_Daily_Log_Entry (RETROSPECTIVE DRAFT).docx
+  - Jerrell_September2026_Sep10-30_Daily_Log_Entry (RETROSPECTIVE DRAFT).docx
+  - steven-preview.json / jerrell-preview.json
+- October1-20-retrospective-drafts.zip
+  - Steven_October2026_Oct1-20_Daily_Log_Entry (RETROSPECTIVE DRAFT).docx
+  - Jerrell_October2026_Oct1-20_Daily_Log_Entry (RETROSPECTIVE DRAFT).docx
+  - steven-preview.json / jerrell-preview.json
+
+APPLIED EVENTS
+September 10-30:
+- Sep 15 day: both residents reportedly went to a food bank with staff.
+- Sep 21 day: Jerrell reportedly began attending day support.
+- Sep 23 day: both residents reportedly went to a food bank with staff.
+- No Sep 25 food-bank visit is included.
+
+October 1-20:
+- Oct 1 day: Jerrell reportedly stopped attending day support because he disagreed with restrictions on bringing his computer, iPad or other devices.
+- Oct 2-5: Jerrell reportedly remained indoors at the group home doing regular home activities. No specific activities or shift assignments were invented or inserted.
+- Oct 6 day: Jerrell reportedly resumed attending day support.
+- Oct 11 evening, approximately 11:20 p.m.: both residents' drafts contain the same supplied altercation facts, including that Jerrell threw a bottle at Steve; 911 was called and police responded. No injuries, interventions or outcomes were added.
+- Oct 14 evening, approximately 5:30 p.m.: Jerrell reportedly insisted on shopping, left despite staff direction, and staff brought him back.
+- Oct 19 evening, approximately 4:30 p.m.: Jerrell reportedly returned from day support, was described as aggressive, went outside despite staff direction, was brought back, called 911 and said he did not belong there.
+- Oct 19 day: Steve's separate program change is included as a date-level day-support note; the program name was not supplied.
+- Oct 20 day: Jerrell stopped attending day support for a reportedly behavior-related reason; exact reason and circumstances remain unknown.
+
+REVIEW LIMITS
+- The workbooks are not finalized, signed or imported into JoyForm production jobs.
+- Blank or routine-only shifts are not evidence that care was omitted; they are unresolved and require staff review against authorized records.
+- No medications, meals, hygiene, hydration, prompts, staff assistance, moods, sleep observations, responses or outcomes were invented.
+- Exact times were used only for Oct 11, Oct 14 and Oct 19 where supplied. Sep 15/Sep 23 food-bank entries use day shift because that was confirmed.
+- The companion JSON files contain the preview review warnings and assumptions for each resident/month.
+
+VERIFICATION
+- Existing resident identity configuration was read from server/src/services/profiles.ts.
+- Existing Sep 1-9 note archive and persisted jobs were inspected.
+- Four DOCX draft workbooks were generated through the existing workbook builder.
+- No production API, voice-note store, daily-report job, finalized report or export was modified.

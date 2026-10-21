@@ -1,0 +1,369 @@
+{
+  "profile": "jerrell",
+  "month": "2026-10",
+  "fromDay": 1,
+  "toDay": 20,
+  "events": [
+    {
+      "id": "j-stop-1",
+      "day": 1,
+      "shift": "day",
+      "kind": "note",
+      "place": "",
+      "details": "Jerrell Wright reportedly stopped attending day support because he disagreed with restrictions on bringing his computer, iPad or other devices.",
+      "withHousemate": false,
+      "mood": ""
+    },
+    {
+      "id": "j-resume-6",
+      "day": 6,
+      "shift": "day",
+      "kind": "note",
+      "place": "",
+      "details": "Jerrell Wright reportedly resumed attending day support.",
+      "withHousemate": false,
+      "mood": ""
+    },
+    {
+      "id": "j-incident-11",
+      "day": 11,
+      "shift": "evening",
+      "kind": "incident",
+      "place": "",
+      "details": "At approximately 11:20 p.m., Jerrell Wright and Steven (Steve) reportedly had a physical altercation following a disagreement involving a girlfriend. They threw water bottles at each other, and Jerrell Wright reportedly threw a water bottle at Steven (Steve). A 911 call was made and police responded.",
+      "withHousemate": false,
+      "mood": ""
+    },
+    {
+      "id": "j-shop-14",
+      "day": 14,
+      "shift": "evening",
+      "kind": "incident",
+      "place": "",
+      "details": "At approximately 5:30 p.m., Jerrell Wright reportedly insisted on shopping, left the group home despite staff direction, and staff brought him back.",
+      "withHousemate": false,
+      "mood": ""
+    },
+    {
+      "id": "j-incident-19",
+      "day": 19,
+      "shift": "evening",
+      "kind": "incident",
+      "place": "",
+      "details": "At approximately 4:30 p.m., Jerrell Wright reportedly returned from day support, was described as aggressive, went outside despite staff direction, was brought back by staff, called 911, and said he did not belong there.",
+      "withHousemate": false,
+      "mood": ""
+    },
+    {
+      "id": "j-absence-20",
+      "day": 20,
+      "shift": "day",
+      "kind": "note",
+      "place": "",
+      "details": "Jerrell Wright stopped attending day support for a reportedly behavior-related reason. The exact reason and circumstances are not known.",
+      "withHousemate": false,
+      "mood": ""
+    }
+  ],
+  "warnings": [
+    {
+      "day": 1,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Laundry was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 1,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 2,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 2,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly house meeting was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 3,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Weekly grocery activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 3,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 4,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 4,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly money-management activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 5,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 5,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 6,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 6,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 7,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 7,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 8,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Laundry was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 8,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 9,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 9,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly house meeting was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 10,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Weekly grocery activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 10,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 11,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 11,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly money-management activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 12,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 12,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 13,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 13,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 14,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 14,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 15,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Laundry was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 15,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 16,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 16,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly house meeting was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 17,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source.",
+        "Review needed: Weekly grocery activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 17,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 18,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 18,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source.",
+        "Review needed: The weekly money-management activity was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 19,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 19,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 20,
+      "shift": "day",
+      "warnings": [
+        "Review needed: Morning medication support at 9:00 AM was scheduled. Completion not documented in the available source."
+      ]
+    },
+    {
+      "day": 20,
+      "shift": "evening",
+      "warnings": [
+        "Review needed: Evening medication support at 8:00 PM was scheduled. Completion not documented in the available source."
+      ]
+    }
+  ],
+  "assumptions": [
+    "October 11: incident text inserted as written - review the Behavioral/Medical/Serious Incident answers on that form.",
+    "October 14: incident text inserted as written - review the Behavioral/Medical/Serious Incident answers on that form.",
+    "October 19: incident text inserted as written - review the Behavioral/Medical/Serious Incident answers on that form.",
+    "Shared afternoons and evenings assume Steve was home; the two logs must be generated with the same events.",
+    "October 21-31 are not written yet."
+  ]
+}
